@@ -5,7 +5,7 @@ Open-Source-Plugins und MCP-Server, die SAP ABAP-Entwicklung mit AI Agents besch
 ## Quick Start
 
 ```
-/plugin marketplace add https://github.com/saponauts/marketplace
+/plugin marketplace add saponauts/marketplace
 /plugin install sap-abap-developer@saponauts
 ```
 
