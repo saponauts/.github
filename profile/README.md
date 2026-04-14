@@ -1,6 +1,6 @@
 # 🚀 saponauts — AI Agents für SAP-Entwicklung
 
-Open-Source-Plugins und MCP-Server, die SAP ABAP-Entwicklung mit AI Agents beschleunigen. Kompatibel mit **Claude Code**, **GitHub Copilot**, **Codex**, **Cursor** und 30+ weiteren Plattformen.
+Plugins und MCP-Server, die SAP ABAP-Entwicklung mit AI Agents beschleunigen. Kompatibel mit **Claude Code**, **GitHub Copilot**, **Codex**, **Cursor** und 30+ weiteren Plattformen.
 
 ## Quick Start
 
