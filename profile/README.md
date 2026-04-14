@@ -13,10 +13,6 @@
   Works with Claude Code, GitHub Copilot, Codex, Cursor, and 30+ AI platforms.
 </p>
 
-<p align="center">
-  <a href="https://saponauts.github.io">Website</a>
-</p>
-
 ---
 
 <p align="center">
