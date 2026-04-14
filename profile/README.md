@@ -20,5 +20,7 @@
 </p>
 
 <p align="center">
-  <sub>&copy; 2026 Saponauts &mdash; All Rights Reserved</sub>
+  <sub>&copy; 2026 Saponauts &mdash; All Rights Reserved</sub><br>
+  <sub>SAP, ABAP, SAP BTP, SAP Fiori, and SAP S/4HANA are trademarks or registered trademarks of SAP SE.<br>
+  This project is not affiliated with, endorsed by, or sponsored by SAP SE.</sub>
 </p>
