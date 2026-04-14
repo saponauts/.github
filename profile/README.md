@@ -27,4 +27,4 @@ Beiträge sind willkommen! Erstelle einen Issue oder Pull Request im jeweiligen 
 
 ## Lizenz
 
-Alle Repos sind unter der [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) lizenziert.
+Alle Repos sind proprietär lizenziert. Alle Rechte vorbehalten. Siehe [LICENSE](../LICENSE).
